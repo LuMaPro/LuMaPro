@@ -1,5 +1,5 @@
 ### Hi! My name is Lucas Martins
-- 🌱 Studying frontend stack 
+- 🌱 Studying SQL
 
 - 😄 Pronouns: he/him
 
