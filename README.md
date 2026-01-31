@@ -1,5 +1,5 @@
 ### Hi! My name is Lucas Martins
-- 🌱 Studying SQL
+- 🌱 Studying Machine Learning
 
 - 😄 Pronouns: he/him
 
